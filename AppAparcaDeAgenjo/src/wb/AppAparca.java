@@ -160,7 +160,7 @@ public class AppAparca {
 		});
 		btnCalcular.setEnabled(false);
 		btnCalcular.setBounds(193, 143, 75, 25);
-		btnCalcular.setText("CALCULAR");
+		btnCalcular.setText("CALCULAR"); 
 
 		grpErrorsIAlertes = new Group(shlAppaparcaDeAgenjo, SWT.NONE);
 		grpErrorsIAlertes.setText("Errors i Alertes");
