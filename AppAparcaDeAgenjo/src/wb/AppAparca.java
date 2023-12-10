@@ -339,4 +339,8 @@ public class AppAparca {
 	private void CleanError() {
 		lblError.setText("");
 	}
+	
+	private void TestGitPush() {
+		
+	}
 }
